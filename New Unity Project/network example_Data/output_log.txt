@@ -1,0 +1,154 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     3013 MB
+Cluster Renderer Log : ARG list
+C:\Users\lee\Documents\New Unity Project\network example.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\lee\Documents\New Unity Project\network example_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.581826 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3504 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at HorizonDegreeLimiter.OnTriggerExit (UnityEngine.Collider Other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HorizonDegreeLimiter.OnTriggerExit (UnityEngine.Collider Other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HorizonDegreeLimiter.OnTriggerExit (UnityEngine.Collider Other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at HorizonDegreeLimiter.OnTriggerExit (UnityEngine.Collider Other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GetInitialRotations
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NuiInitialize Failed - Device is already in use.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.Exception: NuiInitialize Failed
+  at KinectManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+GetInitialRotations
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NuiInitialize Failed - Device is already in use.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+System.Exception: NuiInitialize Failed
+  at KinectManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RacquetColliderForward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RacquetColliderBackward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RacquetColliderBackward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+RacquetColliderForward
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HorizonDegreeLimiter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DetectStartPosition2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+HorizonDegreeLimiter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DetectStartPosition1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Enter1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Object:get_name ()
+  at HorizonDegreeLimiter.OnTriggerExit (UnityEngine.Collider Other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
